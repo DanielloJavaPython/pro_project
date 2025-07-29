@@ -250,8 +250,6 @@ void Installer::Enterteiment(){
                 break;    
         }
         
-
-
         std::cout << "\nPress enter to continue...\n";
         std::cin.ignore();
         std::cin.get();
